@@ -1,0 +1,13 @@
+prerequisites
+linux and shell
+networking
+
+VCS:
+Git and Github
+
+
+CICD:
+Jenkins
+
+Containerization:
+Docker
